@@ -34,7 +34,7 @@
 02_Openpli_9.1_BOOT_5 https://www.novaler.com/uploads/enigmase/boot5/openpli-9.1-multiboxse-boot5.zip
 ===|||||NovalerSE_Android|||||=== https://khaledali.com
 01_Android_7_SE https://www.novaler.com/uploads/flashes/Android-v2022-multiboxse.zip
-02_Android_8_SE https://novaler.com/uploads/flashes/Android8.0_recovery3.53_multibox4kse_01012024.zip
+02_Android_8_SE https://www.novaler.com/uploads/flashes/Android_8.0_multiboxse_4k_20012025.zip
 03_Android_senator https://www.novaler.com/uploads/flashes/Multiboxse-H5D-Senator.zip
 04_Android_Golden https://www.novaler.com/uploads/flashes/Multiboxse-STAR_NET_GOLDEN-2070.zip
 05_Android_WeZone https://www.novaler.com/uploads/flashes/Multiboxse-WezoneM8.zip
