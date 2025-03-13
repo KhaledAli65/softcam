@@ -1,8 +1,8 @@
 =======Welcome======= https://khaledali.com
 ###KhaledAli_NovalerSE_Cloud### https://khaledali.com
 =====||||KhaledAli_Backup||||===== https://khaledali.com
+01_Egami_10.6_R8_13032025 https://dl.dropboxusercontent.com/scl/fi/6pog6vrg1vd7v2jn7mt1y/egami-novaler4kse-backup-by_KhaledAli.zip?rlkey=cfhfa30mzfj8vottgrlac2tcl&dl=0
 01_Openbh_5.5.004_13032025 https://dl.dropboxusercontent.com/scl/fi/boau9ggfx2e0zpzcihjnp/openbh-5.5-novaler4kse.zip?rlkey=zwhmxl4ve81jna2htevac5wd2&st=nj5m03ev&dl=0
-02_Egami_10.6_R7_11032025 https://dl.dropboxusercontent.com/scl/fi/6pog6vrg1vd7v2jn7mt1y/egami-novaler4kse-backup-by_KhaledAli.zip?rlkey=cfhfa30mzfj8vottgrlac2tcl&dl=0
 03_Openatv_7.6_02032025 https://dl.dropboxusercontent.com/scl/fi/dpu466q5j0rt7s0dtoora/openatv-7.6-novaler4kse-backup.zip?rlkey=ueky5wv6txikm9oy1jln3xzw7&st=6lt1mvf7&dl=0
 04_OpenPli_9.1_19022025 https://dl.dropboxusercontent.com/scl/fi/6rajl3nfz4auaxm4ta1le/openpli-9.1-novaler4kse-backup.zip?rlkey=yq5905z3e9uw2mp6jg2sm24fe&st=oynprve2&dl=0
 05_OpenSPA_8.4.004_15022025 https://dl.dropboxusercontent.com/scl/fi/45trlfsrdscg5gm8rve5o/openspa-8.4-003-novaler4kse.zip?rlkey=mdp14mwk6he15avbhu3z7ab1o&st=49qbv14p&dl=0
