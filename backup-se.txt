@@ -1,10 +1,10 @@
 =======Welcome======= https://khaledali.com
 ###KhaledAli_NovalerSE_Cloud### https://khaledali.com
 =====||||KhaledAli_Backup||||===== https://khaledali.com
-01_Openatv_7.5.1_19032025 https://dl.dropboxusercontent.com/scl/fi/3us1029n64c4hx9b5jkfq/openatv-7.5.1-novaler4kse-backup.zip?rlkey=3vfpwe8rz3qhcz76n2vsgvyfd&st=f2cntalm&dl=0
-02_openpli_10.1_19032025 https://dl.dropboxusercontent.com/scl/fi/d2e0o2vcjhbywvizo677u/foxbob-GCC-14.2-novaler4kse-backup.zip?rlkey=p5stt6ifq7336qm9a0w4x01k7&st=altpq5xj&dl=0
-03_OpenPli_9.1_19032025 https://dl.dropboxusercontent.com/scl/fi/6rajl3nfz4auaxm4ta1le/openpli-9.1-novaler4kse-backup.zip?rlkey=yq5905z3e9uw2mp6jg2sm24fe&st=oynprve2&dl=0
-04_PurE2_7.4_19032025 https://dl.dropboxusercontent.com/scl/fi/1yfml3ytve2st0wuwm12b/pure2-novaler4kse-backup-by_KhaledAli.zip?rlkey=jrwmicwpe41ll15m8k0x5z5fr&dl=0 
+01_PurE2_7.4_23032025 https://dl.dropboxusercontent.com/scl/fi/1yfml3ytve2st0wuwm12b/pure2-novaler4kse-backup-by_KhaledAli.zip?rlkey=jrwmicwpe41ll15m8k0x5z5fr&dl=0 
+02_Openatv_7.5.1_19032025 https://dl.dropboxusercontent.com/scl/fi/3us1029n64c4hx9b5jkfq/openatv-7.5.1-novaler4kse-backup.zip?rlkey=3vfpwe8rz3qhcz76n2vsgvyfd&st=f2cntalm&dl=0
+03_openpli_10.1_19032025 https://dl.dropboxusercontent.com/scl/fi/d2e0o2vcjhbywvizo677u/foxbob-GCC-14.2-novaler4kse-backup.zip?rlkey=p5stt6ifq7336qm9a0w4x01k7&st=altpq5xj&dl=0
+04_OpenPli_9.1_19032025 https://dl.dropboxusercontent.com/scl/fi/6rajl3nfz4auaxm4ta1le/openpli-9.1-novaler4kse-backup.zip?rlkey=yq5905z3e9uw2mp6jg2sm24fe&st=oynprve2&dl=0
 05_Egami_10.6_R8_13032025 https://dl.dropboxusercontent.com/scl/fi/6pog6vrg1vd7v2jn7mt1y/egami-novaler4kse-backup-by_KhaledAli.zip?rlkey=cfhfa30mzfj8vottgrlac2tcl&dl=0
 06_Openbh_5.5.004_13032025 https://dl.dropboxusercontent.com/scl/fi/boau9ggfx2e0zpzcihjnp/openbh-5.5-novaler4kse.zip?rlkey=zwhmxl4ve81jna2htevac5wd2&st=nj5m03ev&dl=0
 07_Openatv_7.6_02032025 https://dl.dropboxusercontent.com/scl/fi/dpu466q5j0rt7s0dtoora/openatv-7.6-novaler4kse-backup.zip?rlkey=ueky5wv6txikm9oy1jln3xzw7&st=6lt1mvf7&dl=0
