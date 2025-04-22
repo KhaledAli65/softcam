@@ -30,7 +30,7 @@
 04_Egami_10.6.R9_03042025 https://www.novaler.com/uploads/enigmase/egami/egami-10.6.r9-novaler4kse-backup-20250403_usb.zip 
 05_PurE2_7.4_06042025 https://www.novaler.com/uploads/enigmase/pure2/pure2-7.4-novaler4kse-backup-20250406_usb.zip
 06_Openbh_5.5.1.008_07042025 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.5.1-008-novaler4kse-backup-20250407_mmc.zip
-07_OpenSPA_8.4.004_12022025 https://www.novaler.com/uploads/enigmase/openspa/openspa-8.4-004-novaler4kse-backup-20250212_usb.zip
+07_OpenSPA_8.5.001_22042025 https://www.novaler.com/uploads/enigmase/openspa/openspa-8.5-001-novaler4kse-backup-20250422_usb.zip
 ===|||||NovalerSE_BOOT_5|||||=== https://khaledali.com
 01_Openpli_9.0_BOOT_5 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openpli-9.0-multibox4kse-boot5.zip
 02_Openpli_9.1_BOOT_5 https://www.novaler.com/uploads/enigmase/boot5/openpli-9.1-multiboxse-boot5.zip
