@@ -18,7 +18,7 @@
 03_Openpli_scarthgap https://downloads.openpli.org/builds/multiboxse/openpli-scarthgap-multiboxse-20250523_emmc.zip
 04_OpenPLi_9.1 https://downloads.openpli.org/builds/multiboxse/openpli-9.1-release-multiboxse-20250518_emmc.zip
 05_Openbh_5.5.011 https://www.novaler.com/uploads/enigmase/openbh/openbh-5.5.1.011.release-novaler4kse_multi.zip 
-06_Egami_10.6_R11 https://image.egami-image.com/10.6/novaler4kse/egami-10.6-r11-novaler4kse-20250523_multi.zip
+06_Egami_10.6_R12 https://image.egami-image.com/10.6/novaler4kse/egami-10.6-r12-novaler4kse-20250605_multi.zip
 07_PurE2_7.4 https://dl.dropboxusercontent.com/scl/fi/p4dmz7gvgx9xnl8fskgeu/novaler4kse-PurE2-7.4-20240829_multi.zip?rlkey=r6zkht9ev79iezo8h3b4i0pxy&st=zh3nqcgf&dl=0
 08_Openvix_6.7.010 https://www.novaler.com/uploads/enigmase/openvix/openvix-6.7.010.release-novaler4kse_multi.zip
 09_OpenHDF_7.5 https://www.novaler.com/uploads/enigmase/openhdf/openhdf-7.5-novaler4kse-26-20250210_multi.zip
