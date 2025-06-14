@@ -1,11 +1,11 @@
 =======Welcome======= https://khaledali.com
 ###KhaledAli_NovalerSE_Cloud### https://khaledali.com
 =====||||KhaledAli_Backup||||===== https://khaledali.com
-01_Egami_10.6_R13_MegaExclusive_13062025 https://dl.dropboxusercontent.com/scl/fi/6pog6vrg1vd7v2jn7mt1y/egami-novaler4kse-backup-by_KhaledAli.zip?rlkey=cfhfa30mzfj8vottgrlac2tcl&dl=0
-02_Openatv_7.5.1_13062025_BestChoice https://dl.dropboxusercontent.com/scl/fi/3us1029n64c4hx9b5jkfq/openatv-7.5.1-novaler4kse-backup.zip?rlkey=3vfpwe8rz3qhcz76n2vsgvyfd&st=f2cntalm&dl=0 
-03_Openbh_5.5.012_12062025 https://dl.dropboxusercontent.com/scl/fi/boau9ggfx2e0zpzcihjnp/openbh-5.5-novaler4kse.zip?rlkey=zwhmxl4ve81jna2htevac5wd2&st=nj5m03ev&dl=0
-04_OpenVix_6.7.010_26052025 https://dl.dropboxusercontent.com/scl/fi/jcobnfc7r74ajci5pobd2/openvix-6.7-novaler4kse-backup.zip?rlkey=1ml614k2d31tfqgmdnlr4wkui&st=epe1e40m&dl=0
-05_OpenPli_9.1_26052025 https://dl.dropboxusercontent.com/scl/fi/6rajl3nfz4auaxm4ta1le/openpli-9.1-novaler4kse-backup.zip?rlkey=yq5905z3e9uw2mp6jg2sm24fe&st=oynprve2&dl=0
+01_OpenPli_9.1_14062025 https://dl.dropboxusercontent.com/scl/fi/6rajl3nfz4auaxm4ta1le/openpli-9.1-novaler4kse-backup.zip?rlkey=yq5905z3e9uw2mp6jg2sm24fe&st=oynprve2&dl=0
+02_Egami_10.6_R13_MegaExclusive_13062025 https://dl.dropboxusercontent.com/scl/fi/6pog6vrg1vd7v2jn7mt1y/egami-novaler4kse-backup-by_KhaledAli.zip?rlkey=cfhfa30mzfj8vottgrlac2tcl&dl=0
+03_Openatv_7.5.1_13062025_BestChoice https://dl.dropboxusercontent.com/scl/fi/3us1029n64c4hx9b5jkfq/openatv-7.5.1-novaler4kse-backup.zip?rlkey=3vfpwe8rz3qhcz76n2vsgvyfd&st=f2cntalm&dl=0 
+04_Openbh_5.5.012_12062025 https://dl.dropboxusercontent.com/scl/fi/boau9ggfx2e0zpzcihjnp/openbh-5.5-novaler4kse.zip?rlkey=zwhmxl4ve81jna2htevac5wd2&st=nj5m03ev&dl=0
+05_OpenVix_6.7.010_26052025 https://dl.dropboxusercontent.com/scl/fi/jcobnfc7r74ajci5pobd2/openvix-6.7-novaler4kse-backup.zip?rlkey=1ml614k2d31tfqgmdnlr4wkui&st=epe1e40m&dl=0
 06_Hyperion_9.2_19052025_exclusive https://dl.dropboxusercontent.com/scl/fi/ytdbrgoh59pkbr5qgvcby/zukonMOD-Hyperion-9.2-novaler4kse.zip?rlkey=a5r8fc1jjdik8dlkkt1x4ryl3&st=0tk90y59&dl=0
 07_Openatv_7.6_12052025_exclusive https://dl.dropboxusercontent.com/scl/fi/dpu466q5j0rt7s0dtoora/openatv-7.6-novaler4kse-backup.zip?rlkey=ueky5wv6txikm9oy1jln3xzw7&st=6lt1mvf7&dl=0
 08_PurE2_7.4_12052025 https://dl.dropboxusercontent.com/scl/fi/1yfml3ytve2st0wuwm12b/pure2-novaler4kse-backup-by_KhaledAli.zip?rlkey=jrwmicwpe41ll15m8k0x5z5fr&dl=0
