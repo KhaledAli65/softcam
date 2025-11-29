@@ -6,7 +6,7 @@
 03_PurE2_7.4_29_11_2025 https://dl.dropboxusercontent.com/scl/fi/1yfml3ytve2st0wuwm12b/pure2-novaler4kse-backup-by_KhaledAli.zip?rlkey=jrwmicwpe41ll15m8k0x5z5fr&dl=0
 04_Openbh_5.6.001_29_11_2025 https://dl.dropboxusercontent.com/scl/fi/boau9ggfx2e0zpzcihjnp/openbh-5.5-novaler4kse.zip?rlkey=zwhmxl4ve81jna2htevac5wd2&st=nj5m03ev&dl=0
 05_OpenVix_6.8.01_29_11_2025 https://dl.dropboxusercontent.com/scl/fi/jcobnfc7r74ajci5pobd2/openvix-6.7-novaler4kse-backup.zip?rlkey=1ml614k2d31tfqgmdnlr4wkui&st=epe1e40m&dl=0
-06_OpenPLI_9.52.RC_29_11_2025 https://dl.dropboxusercontent.com/scl/fi/45trlfsrdscg5gm8rve5o/openspa-8.4-003-novaler4kse.zip?rlkey=mdp14mwk6he15avbhu3z7ab1o&st=49qbv14p&dl=0
+06_OpenPLI_9.2.RC_29_11_2025 https://dl.dropboxusercontent.com/scl/fi/45trlfsrdscg5gm8rve5o/openspa-8.4-003-novaler4kse.zip?rlkey=mdp14mwk6he15avbhu3z7ab1o&st=49qbv14p&dl=0
 ===|||||NovalerSE_BOOT_5|||||=== https://khaledali.com
 01_Openpli_9.0_BOOT_5 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openpli-9.0-multibox4kse-boot5.zip
 02_Openpli_9.1_BOOT_5 https://www.novaler.com/uploads/enigmase/boot5/openpli-9.1-multiboxse-boot5.zip
