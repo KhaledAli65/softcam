@@ -8,7 +8,7 @@
 05_OpenVix_6.8.01_29_11_2025 https://dl.dropboxusercontent.com/scl/fi/jcobnfc7r74ajci5pobd2/openvix-6.7-novaler4kse-backup.zip?rlkey=1ml614k2d31tfqgmdnlr4wkui&st=epe1e40m&dl=0
 06_Egami_11_R8_28_11_2025 https://dl.dropboxusercontent.com/scl/fi/6pog6vrg1vd7v2jn7mt1y/egami-novaler4kse-backup-by_KhaledAli.zip?rlkey=cfhfa30mzfj8vottgrlac2tcl&dl=0
 ===|||||NovalerSE_BOOT_5|||||=== https://khaledali.com
-01_Openpli_9.0_BOOT_5 https://gitlab.com/novaler/novaler/-/raw/main/Backup/openpli-9.0-multibox4kse-boot5.zip
+01_Openpli_9.2_BOOT_5 https://dl.dropboxusercontent.com/scl/fi/g0tp43gnlgv4of8duifhl/openpli-9.2-novalerse-boot5-KhaledAli.zip?rlkey=rqlun0t5wi5za9ideh7u6mbrm&st=27wsx5q0&dl=0
 02_Openpli_9.1_BOOT_5 https://www.novaler.com/uploads/enigmase/boot5/openpli-9.1-multiboxse-boot5.zip
 ===|||||NovalerSE_Android|||||=== https://khaledali.com
 01_Android_7_SE https://www.novaler.com/uploads/flashes/Android-v2022-multiboxse.zip
