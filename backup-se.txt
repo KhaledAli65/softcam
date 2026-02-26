@@ -1,7 +1,7 @@
 =======Welcome======= https://khaledali.com
 ###KhaledAli_NovalerSE_Cloud### https://khaledali.com
 =====||||KhaledAli_Backup||||===== https://khaledali.com
-01_Egami_11.0_R11_10_02_2026 https://dl.dropboxusercontent.com/scl/fi/qz1koigujby6wcgy9yg1v/egami-novaler4kse-backup-by_KhaledAli.zip?rlkey=jlrviywj4tp3g7fk5pnlclo8v&st=8amedkps&dl=0
+01_Egami_11.0_R14_27_02_2026 https://dl.dropboxusercontent.com/scl/fi/qz1koigujby6wcgy9yg1v/egami-novaler4kse-backup-by_KhaledAli.zip?rlkey=jlrviywj4tp3g7fk5pnlclo8v&st=8amedkps&dl=0
 02_Openatv_7.6_10_02_2026_BestChoice https://dl.dropboxusercontent.com/scl/fi/r5kdw0k4mcqgzb8qvmxb9/openatv-7.6-novaler4kse-backup.zip?rlkey=ts3ri43nfkmsp7be7bpp500h0&st=cmeo1fj7&dl=0
 03_Openbh_5.6.003_10_02_2026 https://dl.dropboxusercontent.com/scl/fi/oo4vf6upqd4pyl2b755so/openbh-5.5-novaler4kse.zip?rlkey=gkqxgnx02kcxj6ta9y2wfusy4&st=gyr8c5gf&dl=0
 04_OpenVix_6.8.04_10_02_2026 https://dl.dropboxusercontent.com/scl/fi/5puiurjokmqbkrw8320tl/openvix-6.7-novaler4kse-backup.zip?rlkey=5mv1pfokx4m2f7tzh226g3u5f&st=0c2g8n5n&dl=0
